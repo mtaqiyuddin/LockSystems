@@ -42,7 +42,7 @@ boolean ledon = false;
     {
         ledOff();
         ledon = false;
-        Serial.println("unlock");
+        Serial.println("unlockk");
     }
     
     if ((string.toInt()>=0)&&(string.toInt()<=255))
